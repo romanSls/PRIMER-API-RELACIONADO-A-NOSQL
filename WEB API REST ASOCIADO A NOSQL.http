@@ -1,0 +1,6 @@
+@WEB_API_REST_ASOCIADO_A_NOSQL_HostAddress = http://localhost:5010
+
+GET {{WEB_API_REST_ASOCIADO_A_NOSQL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
